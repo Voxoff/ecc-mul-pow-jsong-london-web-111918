@@ -1,0 +1,4 @@
+{
+  "test/index_test.py::FieldElementTest::test_mul": true,
+  "test/index_test.py::FieldElementTest::test_pow": true
+}
